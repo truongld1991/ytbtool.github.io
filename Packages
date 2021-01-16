@@ -1,3 +1,18 @@
+Package: com.fivestar.proxychange
+Version: 0.0.1
+Section: Tweaks
+Maintainer: TruongLD <truongld@fixemedia.com>
+Depends: mobilesubstrate
+Provides: com.fivestar.ytbtool
+Architecture: iphoneos-arm
+Filename: Files/proxychangeios/com.fivestar.proxychange.deb
+Size: 10310
+MD5sum: a469a5df5c8da6c8999a69836339376c
+Description: Proxy Change IOS
+Name: ProxyChangeIOS
+Author: TruongLD <truongld@gmail.com>
+Depiction:https://truongld1991.github.io/ytbtool.github.io/Files/proxychangeios/index.html
+
 Package: org.h6nry.bytafontlegacytm
 Version: 0.0.1-127
 Section: Tweaks

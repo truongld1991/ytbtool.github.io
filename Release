@@ -1,8 +1,8 @@
-Origin: H6nry's repo
-Label: H6nry's repo
+Origin: YTBTool 2021
+Label: YTBTool
 Suite: stable
 Version: 1.0
-Codename: h6nryrepo
+Codename: truongld
 Architectures: iphoneos-arm
 Components: main
-Description: H6nry's Cydia Repository
+Description: YTBTool Cydia Repository
